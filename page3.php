@@ -1,0 +1,2 @@
+<h1 style="color: white">PT. Minyak bumi</h1>
+<iframe src="https://www.google.co.id/maps/search/pt+minyak+bumi/@-3.7970844,101.7444475,9z/data=!3m1!4b1" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
